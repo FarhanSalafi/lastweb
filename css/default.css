@@ -1,0 +1,27 @@
+.grey-bg{
+    background: #f7f7fd;
+}
+.theme-bg{
+    background: #086ae0;
+}
+.white-bg{
+    background: #fff;
+}
+.black-bg{
+    background: #222;
+}
+.f-right{
+    float: right;
+}
+.pt-25{
+    padding-top: 25px;
+}
+.pb-25{
+    padding-bottom: 25px;
+}
+.pr-55{
+    padding-right: 55px;
+}
+.pl-55{
+    padding-left: 55px;
+}
